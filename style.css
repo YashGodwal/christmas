@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
 body {
   background-color:#151522;
   overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center; 
-
+  font-family: "Satisfy", serif;
   height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   overflow: hidden;
