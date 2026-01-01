@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashGodwal/christmas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YashGodwal/christmas/issues"
+  },
+  "homepage": "https://github.com/YashGodwal/christmas#readme",
+  "description": "",
+  "dependencies": {
+    "@vercel/analytics": "^1.6.1"
+  }
+}
